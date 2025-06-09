@@ -50,3 +50,8 @@ To run this project, the following Python libraries are required:
 - Image handling with Pillow
 
 - Randomized gameplay logic with AI interactivity
+
+## 📝 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
